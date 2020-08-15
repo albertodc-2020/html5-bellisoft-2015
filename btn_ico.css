@@ -1,0 +1,12 @@
+﻿.boton{
+border: 2px solid #1c86ee;
+display: inline-block;
+padding: 2px 10px 2px 2px;
+text-decoration: none;
+line-height:1.9em;/*interlineado*/
+background-color:#125FAD;
+color: #FFF;
+}
+.boton img{
+margin-right: 3px;
+}

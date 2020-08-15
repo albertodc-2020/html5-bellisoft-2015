@@ -1,0 +1,38 @@
+﻿.boton{
+border: 2px solid #8258FA;
+padding: 7px 15px 7px 15px;/*1px arriba 2px derecha 3px abajo 4px izquierda*/
+display: inline-block;
+text-decoration: none;
+font-weight: bold;
+background-color: #7543FC;
+color: #FFF;/*COLOR DEL TEXTO*/
+border-radius: 7px;/*bordes de la caja o boton*/
+box-shadow: 2px 2px 3px #BDBDBD; /* 1PX VERTICAL DE LA SOMBRA 2PX HORIZONTAL DE LA SOMBRA 3PX DIFUMINADO DE LA SOMBRA, SOMBREADO DE LA CAJA O BOTOM*/
+}
+
+.boton2{
+border: 2px solid #A6012A;
+padding: 7px 15px 7px 15px;/*1px arriba 2px derecha 3px abajo 4px izquierda*/
+display: inline-block;
+text-decoration: none;
+font-weight: bold;
+background-color: #B40431;
+color: #FF9100;/*COLOR DEL TEXTO*/
+border-radius: 30px;/*bordes de la caja o boton*/
+box-shadow: 2px 2px 3px #BDBDBD; /* 1PX VERTICAL DE LA SOMBRA 2PX HORIZONTAL DE LA SOMBRA 3PX DIFUMINADO DE LA SOMBRA, SOMBREADO DE LA CAJA O BOTOM*/
+}
+
+.boton3{
+border: 2px solid #00FF80;
+padding: 7px 15px 7px 15px;/*1px arriba 2px derecha 3px abajo 4px izquierda*/
+display: inline-block;
+text-decoration: none;
+font-weight: bold;
+background-color: #75E3AC;/*COLOR DE FONDO DEL BOTON*/
+color: #FFF;/*COLOR DEL TEXTO*/
+border-radius: 5px;/*tamaño de pixeles para bordes de la caja o boton*/
+box-shadow: 2px 2px 3px #BDBDBD; /* 1PX VERTICAL DE LA SOMBRA 2PX HORIZONTAL DE LA SOMBRA 3PX DIFUMINADO DE LA SOMBRA, SOMBREADO DE LA CAJA O BOTOM*/
+}
+.boton3:hover{/*efecto de color cuando pase el puntero del mouse por encima del boton*/
+background-color: #B17AE5;
+}

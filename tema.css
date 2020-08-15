@@ -1,0 +1,20 @@
+﻿.texto{
+font: italic bold 22pt times new roman;
+text-align: center;
+text-shadow: 5px 5px 3px #BDBDBD;
+}
+p{
+font: 18pt times new roman;
+text-align: justify;
+line-height: 35px;/*interliniado al texto*/
+text-indent: 2em;/*aplica sangria*/
+}
+.resaltar{
+font-weight:bold;
+text-decoration:underline;
+color:#74DF00
+}
+img{
+border: 2px solid #BDBDBD;
+box-shadow: 5px 5px 3px #BDBDBD;
+}

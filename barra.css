@@ -1,0 +1,28 @@
+﻿.menu{
+list-style-type:none;
+padding-left: 0px;
+ }
+ .menu li{
+ width: 120px;
+ height:35px;
+ 
+ margin-left: 3px;
+ float: left; /*transforma el menu en horizontal*/
+ }
+ 
+ .menu li a{
+ border: 2px solid #0040ff;
+ width: auto;
+ height: 35px;
+ display: block;
+ text-decoration: none;
+ text-align: center;
+ line-height: 2em;
+ background-color: #2e64fe;
+ color:#FFF;
+ border-radius: 7px;
+ }
+ 
+ .menu li a:hover{
+ background-color: #58acfa;
+ }

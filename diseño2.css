@@ -1,0 +1,40 @@
+﻿body{
+margin: 0;
+padding: 0;
+}
+
+/* diseño css para dos columnas*/
+
+.contenerdor{
+width: 1100px;
+min-height: 700px;
+margin: 0;
+}
+
+header{
+border: 1px solid #000;
+width: 100%;
+min-height: 100px;
+}
+
+nav{
+border: 1px solid #000;
+width: 200px;
+min-height: 560px;
+position: absolute;
+margin: 5px 0px:
+}
+section{
+border: 1px solid #000;
+width: auto;
+min-height: 560px;
+margin: 5px opx;
+margin-left: 210px;
+}
+
+footer{
+border: 1px solid #000;
+width: 100%;
+min-height: 40px;
+}
+

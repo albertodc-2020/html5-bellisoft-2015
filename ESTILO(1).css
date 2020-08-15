@@ -1,0 +1,17 @@
+﻿.titulo{
+/* font aplica cursiva, negrita tamaño y tipo de fuente*/
+font: italic bold 15pt Arial Narrow;
+color:#2E64FE; /*aplica color de texto*/
+text-align: center;/*alineacion de texto*/
+text-decoration: underline;/*aplica mayuscula o minuscula al texto*/
+text-transform: uppercase
+}
+.titulo2{
+font: normal 20pt Comic Sans MS;
+text-align: right;
+text-shadow: 3px 3px 3px #BDBDBD;/*aplica sombra al texto*/
+}
+
+body{
+background-color:#0000FF; /*aplica color de fondo*/
+}
